@@ -1,8 +1,5 @@
 # Handwritten-Digit-Recognition-Using-SVD
 Handwritten digit recognition using Singular Value Decomposition (SVD) for dimensionality reduction and classification on the MNIST dataset.
-# Handwritten Digit Recognition using SVD
-
-A Python implementation of handwritten digit recognition using **Singular Value Decomposition (SVD)** for dimensionality reduction and feature extraction.
 
 # Overview
 
