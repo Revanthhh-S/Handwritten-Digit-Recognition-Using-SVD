@@ -74,8 +74,7 @@ def predict_custom_image(image_path):
     plt.show()
 
     return prediction
-
-# Example usage
+    
 # Replace 'digit_sample.png' with the path to your digit image
 your_image_path ="test_digit.png"
 predict_custom_image("test_digit.png")
